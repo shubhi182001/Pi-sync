@@ -218,9 +218,6 @@ npm install -g artillery
 
 # Basic load test
 artillery quick --count 100 --num 600 http://localhost:3000/api/sync-event
-
-# Custom test scenarios
-artillery run test-scenarios.yml
 ```
 
 
