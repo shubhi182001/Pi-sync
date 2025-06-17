@@ -1,4 +1,4 @@
-# PiSync - Raspberry Pi Sync Monitoring API
+# PiSync - Pi Sync Monitoring API
 
 A high-performance Node.js backend API for monitoring and tracking sync events from Raspberry Pi devices. Built to handle 5000+ devices syncing every hour with sub-10ms response times.
 
